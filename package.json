@@ -1,0 +1,23 @@
+{
+    "name": "cms-blog-site",
+    "version": "1.0.0",
+    "description": "A CMS-style blog site where developers can publish blog posts and comment on other developers' posts.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "bcrypt": "^5.0.1",
+      "connect-session-sequelize": "^7.1.4",
+      "dotenv": "^10.0.0",
+      "express": "^4.17.1",
+      "express-handlebars": "^5.3.4",
+      "express-session": "^1.17.2",
+      "mysql2": "^2.3.3",
+      "sequelize": "^6.6.5"
+    }
+}
+  
