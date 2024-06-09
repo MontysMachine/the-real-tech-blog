@@ -16,6 +16,8 @@ This repo relies on a lot of dependencies so make sure to npm install.
 
 ## Usage
 
+![techblog](https://github.com/MontysMachine/the-real-tech-blog/assets/152040943/5fa05b7a-8eb3-4463-8cd6-cb69405b0a5d)
+
 
 
 ## Credits
